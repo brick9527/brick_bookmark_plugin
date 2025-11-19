@@ -3,7 +3,7 @@
   "description": "brick9527 bookmark pluin",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["sidePanel", "activeTab"],
+  "permissions": ["sidePanel", "activeTab", "storage", "bookmarks"],
   "action": {
     "default_icon": "favicon.ico"
   },

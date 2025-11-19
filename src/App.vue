@@ -15,6 +15,10 @@ import { RouterView } from 'vue-router'
             <el-icon><icon-menu /></el-icon>
             <span>About</span>
           </el-menu-item>
+          <el-menu-item index="/sync">
+            <el-icon><icon-menu /></el-icon>
+            <span>同步</span>
+          </el-menu-item>
         </el-menu>
       </el-splitter-panel>
       <el-splitter-panel size="70%" :min="150">
