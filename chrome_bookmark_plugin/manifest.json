@@ -1,0 +1,16 @@
+{
+  "name": "BrickBookmarkPlugin",
+  "description": "brick9527 bookmark pluin",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["sidePanel", "activeTab"],
+  "action": {
+    "default_icon": "favicon.ico"
+  },
+  "side_panel": {
+    "default_path": "dist/index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
