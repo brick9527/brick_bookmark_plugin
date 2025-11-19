@@ -45,3 +45,13 @@ cp -r dist/* ./chrome_bookmark_plugin/
 ```
 
 将插件文件夹更新到chrome
+
+## TODO
+
+- [ ] [1.0.0]
+  - [x] 引入Element Plus
+  - [x] 完成侧边栏的UI开发
+  - [ ] 完成书签管理页的UI开发
+  - [ ] 使用IndexDB本地存储
+  - [ ] 完成浏览器书签同步
+  - [ ] 完成单机版

@@ -8,7 +8,7 @@
     "default_icon": "favicon.ico"
   },
   "side_panel": {
-    "default_path": "dist/index.html"
+    "default_path": "index.html"
   },
   "background": {
     "service_worker": "background.js"
